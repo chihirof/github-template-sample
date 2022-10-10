@@ -1,1 +1,3 @@
 # github-template-sample
+
+GitHubのプルリクエストテンプレートのサンプル。
